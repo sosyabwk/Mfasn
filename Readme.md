@@ -1,2 +1,2 @@
-# OTP Bot
-Educational Telegram bot
+not in use 
+Educational bot
